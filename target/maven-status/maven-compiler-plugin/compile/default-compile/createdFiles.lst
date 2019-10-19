@@ -1,0 +1,6 @@
+cn\com\scitc\mapper\JobsMapper.class
+cn\com\scitc\client\JobParse.class
+cn\com\scitc\model\Jobs.class
+cn\com\scitc\utils\HTTPUtils.class
+cn\com\scitc\JobMain.class
+cn\com\scitc\client\URLHandle.class

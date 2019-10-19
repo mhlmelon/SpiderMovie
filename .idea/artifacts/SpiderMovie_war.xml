@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpiderMovie:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpiderMovie-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SpiderMovie:war exploded" />
+    </root>
+  </artifact>
+</component>
